@@ -1,5 +1,5 @@
 //
-// Created by pvobile on 17-4-24.
+// Created by peace on 17-4-24.
 //
 #include <opencv2/imgproc/imgproc.hpp>
 #include "ContentFinder.h"

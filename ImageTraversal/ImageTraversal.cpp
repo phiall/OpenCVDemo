@@ -1,5 +1,5 @@
 //
-// Created by pvobile on 17-4-27.
+// Created by peace on 17-4-27.
 //
 #include "ImageTraversal.h"
 void ImageTraversal::salt(cv::Mat &img, int n) {
