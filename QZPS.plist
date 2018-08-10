@@ -19,7 +19,7 @@
                     <key>needs-shine</key>
                     <false/>
                     <key>url</key>
-                    <string>下载时大图（非必填）</string>
+                    <string></string>
                 </dict>
                 <dict>
                     <key>kind</key>
